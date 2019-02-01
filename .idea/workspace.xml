@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b88b40cd-c2bb-4306-905f-9544b677837e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myPython.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myPython/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myPython/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myPython/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myPython/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/views.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="330">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="e#99#108#0" expanded="true" />
               </folding>
@@ -49,6 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-42" />
-    <option name="y" value="147" />
+    <option name="x" value="-77" />
+    <option name="y" value="141" />
     <option name="width" value="1911" />
     <option name="height" value="1089" />
   </component>
@@ -80,7 +67,33 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+              <item name="python2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myPython" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="booktest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,15 +157,30 @@
       <updated>1548904981641</updated>
       <workItem from="1548904982789" duration="6338000" />
       <workItem from="1548982773202" duration="14488000" />
-      <workItem from="1549007198586" duration="599000" />
+      <workItem from="1549007198586" duration="862000" />
     </task>
+    <task id="LOCAL-00001" summary="fdf">
+      <created>1549009384580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549009384580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fdf">
+      <created>1549009403596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549009403596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21425000" />
+    <option name="totallyTimeSpent" value="21688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="329" y="199" width="1911" height="1089" extended-state="0" />
+    <frame x="-15" y="159" width="1911" height="1089" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -180,6 +208,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="fdf" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/booktest/migrations/__init__.py" />
     <entry file="file://$PROJECT_DIR$/python2/wsgi.py" />
@@ -197,8 +229,8 @@
     <entry file="file://$PROJECT_DIR$/booktest/models.py" />
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="330">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <element signature="e#99#108#0" expanded="true" />
           </folding>
